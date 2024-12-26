@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zenhy
-- 👀 I’m interested in Internet of things, Electrical Engineering, AI, making and creating new stuff :D
+- 👀 I’m interested in Internet of things, Electrical Engineering, AI, experiments and creating stuff :D
 - 🌱 I’m currently learning Internet of Things and Electrical Engineering
 - 💞️ I’m looking to collaborate on Internet of Things and Electrical Engineering
 - 📫 How to reach me, here I guess
